@@ -1,46 +1,31 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Atualmente estamos logados a diversas redes sociais, seja para o compartilhamento de fotos, vídeos e textos longos ou curtos. Com isso, temos acesso a um grande volume de informação a todo tempo, dificultando a concentração em tarefas realmente relevantes.
+
+Uma pesquisa realizada em 2020 pelo Instituto Pró-Livro<sup>4</sup>, aponta que Belo Horizonte – MG possui cerca de 1,2 milhões de leitores (equivalente a 53% da população da cidade). Após a obtenção desse dado, observamos que existe um público engajado nessa atividade, e em uma breve pesquisa é possível encontrar diversas opções de plataformas ofertando auxílio ao leitor em sua jornada, seja descobrindo novas obras ou mantendo controle de seu acervo pessoal. Entretanto, o leitor se depara com empecilhos iniciando por layouts e designs não intuitivos o que dificulta a sua navegação e localização do conteúdo desejado. A presença excessiva de anúncios e funcionalidades extras coloca em segundo plano a tarefa de gerenciar suas leituras, causando fadiga, cansaço e frustração. que resulta no abandono da plataforma em pouco tempo. 
+
+Diante disso, observamos a necessidade da criação de uma plataforma que auxilie o público atual ao armazenamento e controle das informações necessárias, e instigue mais pessoas a aderirem ao hábito da leitura. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Como mencionado anteriormente, este projeto visa solucionar a dificuldade de controle e gerenciamento da leitura de obras literárias, advindas do excesso de funções e informações ofertadas em plataformas que não auxiliam diretamente no necessário de forma prática, rápida e intuitiva. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste projeto é criar uma plataforma que sirva como ferramenta para a organização e avaliação de leituras pessoais, sejam essas para entretenimento, profissional ou acadêmico. 
+Como objetivos específicos, temos tais quais: 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+* Catalogar e organizar o material literário através de grupos, gêneros, autor e de progresso de leitura; 
+
+* Avaliar obras através de um sistema de notas; 
+
+* Criar notas pessoais para cada material adicionado pelo usuário. 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Durante a pandemia do COVID-19, o Bureau of Labor Statistics<sup>1</sup> observou um aumento do consumo de material literário de 22.9% em 2020, sendo entre 25 e 34 anos o aumento mais significativo. Observa-se que a além do intuito recreacional, o crescimento pessoal tem importante papel nesse crescimento.  
+Em contrapartida, uma grande parte de adultos não é proficiente em funções básicas diante da tecnologia, como utilizar ferramentas de pesquisa<sup>2</sup>, criar documentos<sup>3</sup>, tornando a navegação em websites não intuitivos, realidade das plataformas literárias atuais, um desafio. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O projeto divide o foco entre o público que tem costume de consumir obras literárias de qualquer tipo e também nas pessoas que não possuem o hábito da leitura, de forma que a ferramenta seja um incentivo para tal, podendo ser utilizado por pessoas de qualquer idade.
