@@ -4,9 +4,9 @@
 
 `Projeto Desenvolvimento de Aplicação Web Front-End`
 
-`1`
+`Semestre 1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto tem como objetivo desenvolver uma plataforma que permita gerenciar o consumo de obras literários do usuário de forma descomplicada e acessível a todos os públicos.
 
 ## Integrantes
 
