@@ -1,10 +1,6 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Para definir a problemática e encontrar as devidas soluções a serem apresentadas neste projeto, contamos com a colaboração de usuários fornecendo informações através de entrevistas, realizadas por membros do grupo, que esclareceram gaps cotidianos que buscam ser sanados. Essas informações estão registradas abaixo através das personas e histórias de usuários.   
 
 ## Personas
 
@@ -42,47 +38,44 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Os requisitos são constituídos por um conjunto de instruções e especificações que descrevem o que o programa deve fazer e como fazê-lo, com base nas necessidades e demandas do usuário. 
 
 ### Requisitos Funcionais
+A tabela a seguir apresenta os requisitos do projeto, indicando a prioridade em que os mesmos devem ser entregues. 
 
-|ID    | Descrição do Requisito  | Prioridade |
+|ID      | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| O site deve permitir ao usuário criar uma conta e fazer login para acessar recursos.  | ALTA | 
+|RF-002| O site deve permitir ao usuário cadastrar informações sobre um livro, incluindo título, autor, editora, data de publicação, gênero, sinopse e imagem de capa.    | ALTA |
+|RF-003|O site deve permitir ao usuário pesquisar livros pelo título, autor, gênero, editora e outras informações relevantes. (API do Google Books?) | ALTA |
+|RF-004|O site deve permitir ao usuário criar listas com os livros cadastrados no sistema, com a possibilidade de ordenar por título, gênero, autor, gênero, editora e outras informações relevantes. | ALTA |
+|RF-005|O site deve permitir ao usuário visualizar as informações completas de um livro, incluindo a sinopse, imagem de capa, autor, editora, data de publicação e outras informações relevantes. | ALTA |
+|RF-006| O site deve permitir ao usuário avaliar um livro com uma nota e possuir uma área para comentário. | MÉDIA |
+|RF-007| O site deve permitir ao usuário atribuir ao livro o status de leitura: Não lido, Em progresso, Finalizado, Abandonado. | ALTA |
+|RF-008| O site deve permitir ao usuário criar uma lista desejos, para que possa acompanhar os livros que deseja comprar. | BAIXA |
+|RF-009| O site deve permitir ao administrador do site gerenciar as obras cadastradas. | ALTA |
+|RF-010| O site deve permitir visualizar as informações de contato do mantenedor do site. | MÉDIA |
 
 ### Requisitos não Funcionais
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender. 
 
 |ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|---------|-------------------------|----|
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | ALTA | 
+|RNF-002| O site deve ser rápido e responsivo. | ALTA | 
+|RNF-003| O site deve possuir uma interface do usuário intuitiva, fácil de usar e acessível, permitindo que usuários de diferentes níveis de habilidade encontrem e utilizem as funcionalidades desejadas | ALTA |  
+|RNF-004| O site deve ser compatível com diferentes navegadores, dispositivos e sistemas operacionais, para que os usuários possam acessá-lo de qualquer plataforma. | ALTA | 
+|RNF-005| O site deve possuir o código do sistema bem estruturado e documentado, facilitando a manutenção, correção e atualização do sistema ao longo do tempo. | ALTA | 
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir. 
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
+|RE-01 | O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 12/06/2023.|
+|RE-02 |O aplicativo deve se restringir às tecnologias básicas da Web no Frontend|
+|RE-03 |A equipe não pode subcontratar o desenvolvimento do trabalho. 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
