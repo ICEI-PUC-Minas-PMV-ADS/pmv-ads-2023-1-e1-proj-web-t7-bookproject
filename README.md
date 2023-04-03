@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# PageBuddy
 
 `Análise e Desenvolvimento de Sistemas`
 
