@@ -1,11 +1,11 @@
 
 # Projeto de Interface
 
-Foi estabelecido que a platorma deve ser intuitiva, acessível, e de simples usabilidade. Desta forma, as o projeto limita a quantidade de elementos apenas ao útil e necessário para desempenhar sua função, com uma identidade visual que se assemelha em todas as páginas.
+Foi estabelecido que a platorma deve ser intuitiva, acessível, e de simples usabilidade. Desta forma, o projeto limita a quantidade de elementos apenas ao útil e necessário para desempenhar sua função, mantendo a interface limpa e com uma identidade visual que gera uma sensação de continuidade.
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![Exemplo de UserFlow](img/flowmap (1).png)
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
