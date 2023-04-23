@@ -33,7 +33,7 @@ A tela biblioteca apresenta no bloco de conteúdo livros de destaque a partir da
 * O componente Mihas Listas leva o usuário para a tela Minhas Lista.
 * O componente Perfil leva o usuário à tela Perfil.
 * O componente Sair retorna à tela de login.
-* Interagir com o título da obra abre a Tela - Tela - Pop Up Detalhes Livro.
+* Interagir com o título da obra abre a Tela - Pop Up Detalhes Livro.
 
 ![Biblioteca](https://user-images.githubusercontent.com/128759659/233859579-e42e8e5b-5958-45a3-b61d-4580143b1642.png)
 
