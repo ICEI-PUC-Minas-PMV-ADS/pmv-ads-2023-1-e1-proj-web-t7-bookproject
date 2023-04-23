@@ -27,7 +27,7 @@ A tela de home-page mostra o nome do projeto com uma breve descrição indicativ
 
 **Tela - Bibilioteca**
 
-A tela biblioteca apresenta no bloco de conteúdo livros de destaque a partir da API utilizada pelo sistema. Com base na estrutura padrão, Imagem, Nome do Livro e Autor são exibidos.
+A tela biblioteca apresenta no bloco de conteúdo livros de destaque a partir da API utilizada pelo sistema. Com base na estrutura padrão, Imagem, Nome do Livro e Autor são exibidas as obras.
 * O botão adicionar inclui o livro à lista do usuário.
 * O componente Pesquisar permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
 * O componente Mihas Listas leva o usuário para a tela Minhas Lista.
@@ -49,9 +49,9 @@ A tela que permite exibir mais informações sobre uma obra quando o usuário cl
 
 ![popup](https://user-images.githubusercontent.com/128759659/233863438-2bc90ac1-9667-440b-b051-8ee809ba5b30.png)
 
-**Tela - Tela - Meus Livros**
+**Tela - Meus Livros**
 
-A tela exibe todos os livros salvos pelo usuário. Nesta tela é possivel editar detalhes como criar e agregar à uma lista, definir gênero e status através de listas suspensas; indicar o número de páginas lidas, avaliar e favoritar a obra. É possivel também na lateral direita a inserção de anotações. Posui a maioria das funções da tela Pesquisa.
+A tela exibe todos os livros salvos pelo usuário. Nesta tela é possivel editar detalhes como criar e agregar à uma lista, definir gênero e status através de listas suspensas; indicar o número de páginas lidas, avaliar e favoritar a obra. É possivel também na lateral direita a inserção de anotações. 
 
 ![meus livros](https://user-images.githubusercontent.com/128759659/233864095-0b7af599-a733-422e-b075-9963bc1ef04c.png)
 
@@ -63,6 +63,6 @@ A tela exibe algumas informações básica sobre o usuário como nome, email, id
 
 **Tela - About**
 
-A tela about aprensenta uma descrição sobre a plataforma, motivos para a criação e objetivos. Abaixo se encontram informações para contato. É possivel acessar todas as páginas presentes no cabeçalho.
+A tela about aprensenta uma descrição sobre a plataforma, motivos para a criação e objetivos. Abaixo se encontram informações para contato. É possivel acessar todas as páginas presentes no cabeçalho. Também acessável pela home-page.
 
 ![about](https://user-images.githubusercontent.com/128759659/233865621-77ae182f-5add-423e-8319-1442e24f5e76.png)
