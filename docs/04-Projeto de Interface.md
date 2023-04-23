@@ -14,7 +14,7 @@ Figura 2 - Fluxo de telas do usuário
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem.  As telas do sistema apresentam uma estrutura em comum, com exceção à home-page, que é apresentada na Figura 2. Nesta estrutura existem 2 grandes blocos:
 * **Cabeçalho:** Local onde estão dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
 * **Conteúdo:** apresenta o conteúdo da tela em questão.
-*  ** Rodapé: ** apresenta opção que redireciona o usuário à informações sobre a interface e para contato.
+* **Rodapé:** apresenta opção que redireciona o usuário à informações sobre a interface e para contato.
 
 ![estrutura](https://user-images.githubusercontent.com/128759659/233857509-0f90236a-cdf1-4e71-a033-b311942029ae.png)
 
