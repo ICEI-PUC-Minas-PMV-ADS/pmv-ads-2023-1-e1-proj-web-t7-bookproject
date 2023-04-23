@@ -14,7 +14,6 @@ O projeto tem como objetivo desenvolver uma plataforma que permita gerenciar o c
 * Mateus Silva de Sousa
 * Gabriel Russo Grilo
 * Pedro Antonio Barros de Sousa
-* Carlos dos Santos Pacheco
 
 ## Orientador
 
