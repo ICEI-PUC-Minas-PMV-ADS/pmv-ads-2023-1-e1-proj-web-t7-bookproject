@@ -25,3 +25,10 @@ Página "Meus Livros":
 
 Código da Página "Meus Livros":
 
+![Captura de Tela (21)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/718ec20c-7945-48b9-afc7-c2497a08cbde)
+![Captura de Tela (22)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/3972f3a6-f1f1-4bbd-80ed-918a9cd746fa)
+![Captura de Tela (23)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/c8b28bbd-c3fb-47d2-804e-40a3e74cea1b)
+![Captura de Tela (24)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/d892d834-bfb6-498f-8acb-f200eddcbe55)
+![Captura de Tela (25)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/bf232422-aff4-4377-9603-a7b86150a59e)
+![Captura de Tela (26)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/25569f1d-339a-41a6-9e70-481ef3b80e99)
+![Captura de Tela (27)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/f9eb25e7-9410-4522-aca1-a647828127d1)
