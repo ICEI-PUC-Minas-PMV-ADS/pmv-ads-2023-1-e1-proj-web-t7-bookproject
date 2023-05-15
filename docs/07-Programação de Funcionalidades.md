@@ -28,7 +28,15 @@ Funcionalidade RF07- O site deve permitir ao usuário atribuir ao livro o status
 
 ![PAGINA MEUS LIVROS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/00f6f2b5-05d7-4e49-9eab-b4e6deee3ac1)
 
+Código da página:
 
+![Captura de Tela (21)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/c0d009cf-8953-4f5e-9e99-f811ce20c44f)
+![Captura de Tela (22)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/54cb594d-6c08-4fbf-b4dc-bb7a4b359d96)
+![Captura de Tela (23)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/5c033aa6-4962-47a2-8439-154368d70adc)
+![Captura de Tela (24)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/875d5637-1df0-4841-887a-7aad2f5bff20)
+![Captura de Tela (25)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/60f7fa2c-cdd7-4299-80e2-b6450cbe113e)
+![Captura de Tela (26)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/c5f3d154-f35e-41ef-a2f2-afc55a2bc336)
+![Captura de Tela (27)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/6056ca06-956a-4897-8490-9c34354f463a)
 
 
 
