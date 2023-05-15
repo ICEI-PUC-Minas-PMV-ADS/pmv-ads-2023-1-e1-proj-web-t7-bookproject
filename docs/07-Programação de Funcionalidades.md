@@ -24,6 +24,23 @@ Código de estilização do formulário:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/128759977/94c47ed4-3eb1-422c-b582-73daf9bdf3dd)
 
 
+Funcionalidade RF07- O site deve permitir ao usuário atribuir ao livro o status de leitura: Não lido, Em progresso, Finalizado, Abandonado. Efetuado por Gabriel Russo Grilo.
+
+![PAGINA MEUS LIVROS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/00f6f2b5-05d7-4e49-9eab-b4e6deee3ac1)
+
+
+Código:
+
+![Captura de Tela (11)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/a8e5003b-fe2b-4152-ace7-520cd33c2ca7)
+![Captura de Tela (12)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/592e38ff-7b69-4386-806a-a268c270d862)
+![Captura de Tela (13)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/f7d6d4db-2e02-4af0-a6f2-e0306be1cda9)
+![Captura de Tela (14)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/c43e5170-b733-4391-92f5-3803ec752794)
+![Captura de Tela (15)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/a4441325-d966-4ea0-ab74-ec873ac4e58a)
+![Captura de Tela (16)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/03297ec8-7d8d-4bce-8076-2e309749b750)
+![Captura de Tela (17)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/9c592655-bd28-4995-abcd-429b046b671b)
+![Captura de Tela (18)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-bookproject/assets/101235591/365e53e6-d5d3-439d-9702-96620aecdabe)
+
+
 
 
 
