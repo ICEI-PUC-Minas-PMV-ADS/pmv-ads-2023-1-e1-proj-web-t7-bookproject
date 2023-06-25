@@ -10,10 +10,7 @@ O projeto tem como objetivo desenvolver uma plataforma que permita gerenciar o c
 
 ## Integrantes
 
-* Larissa Julia Abre da Cruz
-* Mateus Silva de Sousa
 * Gabriel Russo Grilo
-* Pedro Antonio Barros de Sousa
 
 ## Orientador
 
