@@ -38,7 +38,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-pagebuddy.netlify.app
+<a href="pagebuddy.netlify.app" </a>
 
 # Armazenamento do Código-Fonte
 
