@@ -8,7 +8,7 @@
 
 ## Título do Projeto
 
-Nome e marca do projeto
+Page Buddy, Bookproject.
 
 ## Identidade Visual (Marca, Design)
 
