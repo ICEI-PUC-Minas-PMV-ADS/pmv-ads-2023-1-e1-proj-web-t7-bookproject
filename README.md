@@ -38,7 +38,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+pagebuddy.netlify.app
 
 # Armazenamento do Código-Fonte
 
