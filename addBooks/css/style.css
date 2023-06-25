@@ -1,0 +1,112 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Pacifico Regular'), local('Pacifico-Regular'), url(https://fonts.gstatic.com/s/pacifico/v12/FwZY7-Qmy14u9lezJ-6H6Mk.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+body {
+    padding: 1rem;
+    background: url(/assets/background.jpg) no-repeat center;
+    background-size: cover;
+    margin: 100px;
+   display: flex;
+   align-content: center;
+   justify-content: center;
+    
+}
+
+
+
+h1{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    width: 500px;
+    margin: 0 auto;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1.1 rem;
+}
+
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+header{
+    margin-top: 70px;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background: #e7e7e7;
+  transition: all 0.3s;
+  
+}
+
+nav a {
+  width: 90px;
+  margin-right: 10px;
+  font-family: Pacifico;
+  font-size: 1.5em;
+  text-align: center;
+  text-decoration: none;
+  color: #404040;
+  margin: 20px;
+}
+
+a.home {
+  width: 200px;
+  margin-right: auto;
+  font-size: 2em;
+}
+
+.nav-up {
+  top: -70px;
+}
+
+.forms {
+display: flex;
+flex-direction: column;
+justify-content: center;
+justify-self: center;
+height: 80vh;
+width: 40vw;
+margin: 100px 50px;
+padding: 40px;
+border: 5px solid rgb(0, 0, 0);
+border-radius: 5px;
+background-color: aliceblue;
+}
